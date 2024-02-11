@@ -1,14 +1,5 @@
 <head>
     <p align="center">
-        <a
-            <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/ucode.png" height="100px">
-        </a>
-        <a 
-            <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/unit.png" height="100px">
-        </a>
-        <a
-            img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/lms.png" height="100px">
-        </a>
         <h2 align="center">This is my repository for UCODE marathon works, such as Sprints, Races and Checkpoints.</a></h2>
     </p>
 </head>
