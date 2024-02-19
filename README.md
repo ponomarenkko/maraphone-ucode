@@ -54,17 +54,17 @@
         <tr>
             <th>Sprint08</th>
             <th>Header files and structures.</th>
-            <th>0</th>
+            <th>64</th>
         </tr>
         <tr>
             <th>Sprint09</th>
             <th>Makefile, macros, standard error, function pointers.</th>
-            <th>0</th>
+            <th>69</th>
         </tr>
         <tr>
             <th>Sprint10</th>
             <th>File I/O. Standard input and output.</th>
-            <th>0</th>
+            <th>58</th></th>
         </tr>
         <tr>
             <th>Sprint11</th>
@@ -74,12 +74,12 @@
         <tr>
             <th>Race00</th>
             <th>Representation of 3d cube and pyramid on the standard output.</th>
-            <th>0</th>
+            <th>100</th>
         </tr>
         <tr>
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
-            <th>100</th>
+            <th>0</th>
         </tr>
         <tr>
             <th>Race02</th>
@@ -99,7 +99,7 @@
         <tr>
             <th>Checkpoint01</th>
             <th>Challenge yourself without internet, peers, notes, books or any other third-party help.</th>
-            <th>00</th>
+            <th>107</th>
         </tr>
         <tr>
             <th>Checkpoint02</th>
