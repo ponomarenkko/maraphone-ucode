@@ -79,7 +79,7 @@
         <tr>
             <th>Race01</th>
             <th>Decode encrypted math expression.</th>
-            <th>0</th>
+            <th>0 :(</th>
         </tr>
         <tr>
             <th>Race02</th>
