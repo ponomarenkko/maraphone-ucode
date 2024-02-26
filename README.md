@@ -69,7 +69,7 @@
         <tr>
             <th>Sprint11</th>
             <th>Linked list.</th>
-            <th>0</th>
+            <th>89</th>
         </tr>
         <tr>
             <th>Race00</th>
@@ -89,7 +89,7 @@
         <tr>
             <th>Race03</th>
             <th>Simulate the Matrix screensaver.</th>
-            <th>0</th>
+            <th>89</th>
         </tr>
         <tr>
             <th>Checkpoint00</th>
