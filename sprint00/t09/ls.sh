@@ -1,1 +1,6 @@
-ls -lh $1 | awk '{print $9, $5, $6}' | sort -k1
+for file in "$1"/*; do
+    command_name=$(basename "$file")
+    size=$(du -sh "$file" | awk '{print $1}')
+     echo "${command_name} ${size}"
+done | grep -vE '^(.|..)$'
+

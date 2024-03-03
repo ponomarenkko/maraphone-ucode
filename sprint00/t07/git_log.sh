@@ -1,1 +1,1 @@
-git log --oneline -n 3
+git log --pretty=format:"%h %s" -n 3

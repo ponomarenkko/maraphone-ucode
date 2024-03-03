@@ -1,2 +1,1 @@
-touch instructions.txt
-echo "Folow the white rabbit." >> instructions.txt
+echo "Follow the white rabbit." > instructions.txt
