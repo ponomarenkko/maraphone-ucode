@@ -1,6 +1,7 @@
 <head>
     <p align="center">
         <h2 align="center">This is my repository for UCODE marathon works, such as Sprints, Races and Checkpoints. You can free use my GitHub repository for your projects.</a></h2>
+        <h4 align="center">While participating in the Marathon-Ucode-2024, I became convinced of the importance of having connections with other marathon participants. During this period, I learned a lot of new things that I will try to use in my future life.</h4>
     </p>
 </head>
 
@@ -108,8 +109,3 @@
         </tr>
     </table>
 </body>
-
-<footer>
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
-<h4 align="center">While participating in the Marathon-Ucode-2024, I became convinced of the importance of having connections with other marathon participants. During this period, I learned a lot of new things that I will try to use in my future life.</h4>
-</footer>
