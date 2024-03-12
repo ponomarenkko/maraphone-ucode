@@ -108,3 +108,7 @@
         </tr>
     </table>
 </body>
+
+<footer>
+<h4 align="center">While participating in the Marathon-Ucode-2024, I became convinced of the importance of having connections with other marathon participants. During this period, I learned a lot of new things that I will try to use in my future life.</h4>
+</footer>
