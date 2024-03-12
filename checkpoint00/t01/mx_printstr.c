@@ -1,11 +1,9 @@
 #include <unistd.h>
 
 void mx_printstr(const char *s){
-    int i = 0;
     char c = s[i];
-    while(c != 0){
+    for(int i = 0; c != 0; i++){
         write(1, &c, 1);
-        i++;
         c = s[i];
     }
 }
