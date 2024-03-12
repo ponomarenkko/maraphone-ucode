@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-        <h2 align="center">This is my repository for UCODE marathon works, such as Sprints, Races and Checkpoints.</a></h2>
+        <h2 align="center">This is my repository for UCODE marathon works, such as Sprints, Races and Checkpoints. You can free use my GitHub repository for your projects.</a></h2>
     </p>
 </head>
 
